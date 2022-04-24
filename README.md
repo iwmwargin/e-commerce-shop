@@ -70,11 +70,8 @@ Eric Wargin
 
 ## Screenshots
 
-Image of Terminal
-<img src="https://github.com/iwmwargin/employee-tracker/blob/main/assets/Employee.png">
-
 Link to Video
-<a href="https://drive.google.com/file/d/1BCPuPIA3QVhu9iREmF1tWr-ipe90e2O9/view?usp=sharing" target="_blank">Walk Through Video</a>
+<a href="https://drive.google.com/file/d/1zA6e6uBfLVE6gFGtIrrlNZPpGkV6N9dt/view?usp=sharing" target="_blank">Walk Through Video</a>
 
 ## Questions?
 
