@@ -11,7 +11,6 @@
 - [Usage](#usage)
 - [Link to URL](#live-url-link)
 - [Contributors](#contributors)
-- [Issues](#issues)
 - [Questions](#questions)
 - [License](#license)
 
@@ -54,6 +53,8 @@ THEN I am able to successfully create, update, and delete data in my database
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)<br>
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 <br>
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+<br>
 
 ## Live URL Link
 
@@ -61,7 +62,7 @@ https://iwmwargin.github.io/e-commerce-shop/
 
 ## Usage
 
-Clone the repo, then npm install MySQL, express, node, sequelize and dotenv. 
+Clone the repo, then npm install MySQL, express, node, sequelize and dotenv. Create a .env file that contains the db name of ecommerce_db;, your user name and password. Run mysql by typing mysql -u root -p in your command line.  Enter your password then type source db/schema.sql. Next type use ecommerce_db in the command line. With the database in use, exit mysql and type npm run seed in the command line. Finally type node server into the command line and then open up Insomnia. Use Insomnia to test your routes.
 
 ## Contributors
 
